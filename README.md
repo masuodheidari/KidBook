@@ -7,4 +7,4 @@ specially digital or physical story books that will be created , Designed and re
 
 
 # Sample Results
-![alt text](https://github/masuodheidari/KidBook/blob/main//res1.jpg?raw=true)
+![alt text](https://github.com/masuodheidari/KidBook/blob/main/res1.png)
